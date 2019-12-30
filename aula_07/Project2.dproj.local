@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/12/30 17:12:31.693,=C:\Users\helder.santos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/30 17:20:56.410,C:\Users\helder.santos\Documents\Delphi\Delphi\aula_07\aula_07.pas=C:\Users\helder.santos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/30 17:20:56.410,C:\Users\helder.santos\Documents\Delphi\Delphi\aula_07\aula_07.dfm=C:\Users\helder.santos\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/12/30 17:24:07.613,=C:\Users\helder.santos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/12/30 17:24:42.157,C:\Users\helder.santos\Documents\Delphi\Delphi\aula_07\Unit2.dfm=C:\Users\helder.santos\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2019/12/30 17:24:42.157,C:\Users\helder.santos\Documents\Delphi\Delphi\aula_07\Unit2.pas=C:\Users\helder.santos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/12/30 17:50:10.904,C:\Users\helder.santos\Documents\Delphi\Delphi\aula_07\Project2.dproj=C:\Users\helder.santos\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
